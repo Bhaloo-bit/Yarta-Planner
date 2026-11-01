@@ -4,7 +4,7 @@ from datetime import date, timedelta
 import requests
 import streamlit as st
 
-API = "https://your-app.fastapicloud.dev"
+API = "https://yarta-planner-mx6jechunkpbjpbpzefhkt.streamlit.app/"
 CURRENCIES = ["INR", "USD", "EUR", "GBP", "AED", "SGD", "THB", "JPY", "AUD", "CAD"]
 
 st.set_page_config(page_title="Yatra Planner", page_icon="🧭", layout="centered")
